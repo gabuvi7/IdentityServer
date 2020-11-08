@@ -1,0 +1,16 @@
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Repositorio\Algeiba_IdentityServer\startSecure\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache
